@@ -1,0 +1,11 @@
+# Archivos específicos de Eclipse IDE
+.classpath
+.project
+.settings/
+
+# Archivos de compilación de Java
+*.class
+
+# Carpetas de salida binarias
+bin/
+target/
