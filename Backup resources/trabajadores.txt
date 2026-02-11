@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"trabajadores":[{"tipo":"Jefe","idDep":0,"numSub":4,"apellido":"1","id":"11111111A","nombre":"Jefe","activo":true},{"tipo":"Encargado","idDep":0,"idJefe":"11111111A","apellido":"1","id":"22222222B","nombre":"Encargado","activo":true},{"tipo":"Encargado","idDep":1,"idJefe":"11111111A","apellido":"2","id":"33333333C","nombre":"Encargado","activo":true},{"numVentas":0,"tipo":"Vendedor","idDep":1,"idJefe":"11111111A","apellido":"1","id":"44444444D","nombre":"Vendedor","activo":true},{"numVentas":0,"tipo":"Vendedor","idDep":2,"idJefe":"11111111A","apellido":"2","id":"55555555E","nombre":"Vendedor","activo":true}]}
+=======
+{"trabajadores":[{"tipo":"Jefe","idDep":0,"numSub":1,"apellido":"a","id":"11111111A","nombre":"a","activo":true},{"tipo":"Encargado","idDep":0,"idJefe":"11111111A","apellido":"c","id":"11111111B","nombre":"c","activo":true}]}
+>>>>>>> 3d0310c2944f19b47e330cdf5cf1d8c9f1fded6c

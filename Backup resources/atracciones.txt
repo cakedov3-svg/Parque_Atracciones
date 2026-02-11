@@ -1,0 +1,1 @@
+{"atracciones":[{"aforo":50,"nivel_emocion":5,"id_encargado":"22222222B","familiar":true,"id":0,"nombre":"Atraccion1","activa":true},{"aforo":40,"nivel_emocion":7,"id_encargado":"33333333C","familiar":true,"id":1,"nombre":"Atraccion2","activa":true},{"aforo":80,"nivel_emocion":2,"id_encargado":"22222222B","familiar":true,"id":2,"nombre":"Atraccion3","activa":true}]}

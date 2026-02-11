@@ -1,0 +1,1 @@
+{"eventos":[{"aforo":100,"tipo":"concierto","id":0,"nombre":"Evento1","activo":true},{"aforo":95,"tipo":"circo","id":1,"nombre":"Evento2","activo":true},{"aforo":200,"tipo":"magia","id":2,"nombre":"Evento3","activo":true}],"next_id":3}
